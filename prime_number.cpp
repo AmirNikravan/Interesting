@@ -21,7 +21,7 @@ int main()
             else
             {
                 flag = 0;
-                break;
+                break; 
             }
         }
         if (flag)
